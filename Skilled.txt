@@ -1,9 +1,7 @@
 burak
 hilal
-emin
 hülya
-reyhan
-serhat
+
 mehmet
 erdoğan
 ece
